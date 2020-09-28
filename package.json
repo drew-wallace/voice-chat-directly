@@ -1,0 +1,7 @@
+{
+  "name": "send-it-directly",
+  "version": "0.0.1",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  }
+}
